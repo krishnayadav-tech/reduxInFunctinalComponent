@@ -1,0 +1,11 @@
+.buttonwrapper{
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonwrapper button{
+    background-color: sandybrown;
+    padding: 10px 20px;
+    width: 20%;
+    cursor: pointer;
+}
